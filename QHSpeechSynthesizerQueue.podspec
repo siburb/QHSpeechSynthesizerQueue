@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "QHSpeechSynthesizerQueue"
-  s.version      = "1.1.1"
+  s.version      = "1.1.2"
   s.summary      = "Queue management system for AVSpeechSynthesizer"
   s.homepage     = "https://github.com/quentinhayot/QHSpeechSynthesizerQueue"
   s.license      = { :type => 'MIT', :file => 'LICENSE' }
